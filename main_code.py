@@ -1,4 +1,4 @@
-
+# comment are coming soon ; stay tuned
 def tri(A):
     n=len(A)
     for j in range(n-1,-1,-1):
