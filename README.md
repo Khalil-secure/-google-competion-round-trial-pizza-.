@@ -12,6 +12,7 @@ Implemented a greedy and iterative refinement strategy to test and improve ingre
 Used data structures like sets and dictionaries to efficiently manage preferences and compute scores.
 Collaborated with teammates to test edge cases and optimize runtime under competition constraints.
 
+
 🚀 Key Takeaways:
 Learned how to balance algorithmic efficiency with real-world logic (taste preferences).
 Gained experience in team-based problem solving under time pressure.
